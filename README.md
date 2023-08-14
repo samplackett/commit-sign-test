@@ -19,3 +19,5 @@ Trying different terminal
 Tried new gpg pckg
 
 Now opening in a regular window rather than wsl.
+
+New gpg key...
