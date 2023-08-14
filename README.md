@@ -13,3 +13,5 @@ Reinstalled GCM
 Changed credential helper...
 
 Added identity.
+
+Trying different terminal
