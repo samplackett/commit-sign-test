@@ -21,3 +21,7 @@ Tried new gpg pckg
 Now opening in a regular window rather than wsl.
 
 New gpg key...
+
+Reinstalled WSL2
+
+Config reapplied
