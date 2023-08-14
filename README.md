@@ -15,3 +15,7 @@ Changed credential helper...
 Added identity.
 
 Trying different terminal
+
+Tried new gpg pckg
+
+Now opening in a regular window rather than wsl.
